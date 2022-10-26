@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Menu {
     public static void main(String[] args) {
         HashMap<String, Double> breakfast = new HashMap<>();
-            breakfast.put("Full Irish Breakfast", 16.95);
+            breakfast.put("Full Irish Beakfast", 16.95);
             breakfast.put("Vegetarian Breakfast", 15.95);
             breakfast.put("Eggs Benedict", 12.50);
             breakfast.put("Eggs Royale", 14.50);
